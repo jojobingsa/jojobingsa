@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/EatDev"><img src="https://cdn.discordapp.com/attachments/905457008512208936/1005826135608795156/tumblr_mtihvqF9xN1si30aao1_500.webp" alt="Gray shape shifter" height="120"/></a></p>
-<h1 align="center">EatDev/Jonas.</h1>
+<h1 align="center">Jojobings/Jonas.</h1>
 <p align="center">A passionate frontend developer from Germany.</p>
 <p align="center">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
