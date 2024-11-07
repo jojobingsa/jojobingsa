@@ -19,16 +19,16 @@
 <br/><br/><br/>
 
 ## :hear_no_evil:  How i am?  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eatdev&show_icons=true&locale=en" alt="eatdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jojobingsa&show_icons=true&locale=en" alt="jojobingsa" /></p>
 <br/><br/><br/>
 
 ## :zap:  My Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eatdev&" alt="eatdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jojobingsa" alt="jojobingsa" /></p>
 
   
 <br/><br/><br/>
 ## :tada:  GitHub Trophies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eatdev" alt="eatdev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojobingsa" alt="jojobingsa" /></a> </p>
 <br/><br/><br/>
 
 ## :clap:  Contact Me
